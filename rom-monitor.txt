@@ -1,0 +1,2037 @@
+OutPut
+Device Name: bf-alsto-rad70-lks-uk
+bf-alsto-rad70-lks-uk#
+bf-alsto-rad70-lks-uk#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(2r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-rad70-lks-uk#
+bf-alsto-rad70-lks-uk#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         23.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             27
+State:                           Active
+
+bf-alsto-rad70-lks-uk#
+
+Device Name: bf-alsto-pan71-pty-am
+bf-alsto-pan71-pty-am#
+bf-alsto-pan71-pty-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-pan71-pty-am#
+bf-alsto-pan71-pty-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-pan71-pty-am#
+
+Device Name: bf-alsto-sal70-haj-eu
+bf-alsto-sal70-haj-eu#
+bf-alsto-sal70-haj-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S, RELEASE SOFTWARE
+Copyright (c) 1994-2014  by cisco Systems, Inc.
+
+bf-alsto-sal70-haj-eu#
+bf-alsto-sal70-haj-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sal70-haj-eu#
+
+Device Name: bf-alsto-lap70-htl-am
+bf-alsto-lap70-htl-am#
+bf-alsto-lap70-htl-am#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(2r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-lap70-htl-am#
+bf-alsto-lap70-htl-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-lap70-htl-am#
+
+Device Name: bf-alsto-gua70-mex-am
+bf-alsto-gua70-mex-am#
+bf-alsto-gua70-mex-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-gua70-mex-am#
+bf-alsto-gua70-mex-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-gua70-mex-am#
+
+Device Name: bf-alsto-las70-san-am
+bf-alsto-las70-san-am#
+bf-alsto-las70-san-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-las70-san-am#
+bf-alsto-las70-san-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-las70-san-am#
+
+Device Name: bf-alsto-vil70-plg-eu
+bf-alsto-vil70-plg-eu#
+bf-alsto-vil70-plg-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S, RELEASE SOFTWARE
+Copyright (c) 1994-2014  by cisco Systems, Inc.
+
+bf-alsto-vil70-plg-eu#
+bf-alsto-vil70-plg-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-vil70-plg-eu#
+
+Device Name: bf-alsto-bol70-mil-eu
+bf-alsto-bol70-mil-eu#
+bf-alsto-bol70-mil-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-bol70-mil-eu#
+bf-alsto-bol70-mil-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-bol70-mil-eu#
+
+Device Name: bf-alsto-mel72-mbi-am
+bf-alsto-mel72-mbi-am#
+bf-alsto-mel72-mbi-am#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(2r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-mel72-mbi-am#
+bf-alsto-mel72-mbi-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-mel72-mbi-am#
+
+Device Name: bf-alsto-hor71-nyc-am
+bf-alsto-hor71-nyc-am#
+bf-alsto-hor71-nyc-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-hor71-nyc-am#
+bf-alsto-hor71-nyc-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-hor71-nyc-am#
+
+Device Name: bf-alsto-sri70-sgp-ap
+bf-alsto-sri70-sgp-ap#
+bf-alsto-sri70-sgp-ap#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-sri70-sgp-ap#
+bf-alsto-sri70-sgp-ap#sh ip nbar protocol-pack active
+sh ip nbar protocol-pack active
+                    ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-sri70-sgp-ap#
+
+Device Name: bf-alsto-rei70-sxb-eu
+bf-alsto-rei70-sxb-eu#
+bf-alsto-rei70-sxb-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-rei70-sxb-eu#
+bf-alsto-rei70-sxb-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-rei70-sxb-eu#
+
+Device Name: bf-alsto-cha70-bru-eu
+bf-alsto-cha70-bru-eu#
+bf-alsto-cha70-bru-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-cha70-bru-eu#
+bf-alsto-cha70-bru-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-cha70-bru-eu#
+
+Device Name: bf-alsto-sal71-haj-eu
+bf-alsto-sal71-haj-eu#
+bf-alsto-sal71-haj-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-sal71-haj-eu#
+bf-alsto-sal71-haj-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sal71-haj-eu#
+
+Device Name: bf-alsto-sav70-mil-eu
+bf-alsto-sav70-mil-eu#
+bf-alsto-sav70-mil-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-sav70-mil-eu#
+bf-alsto-sav70-mil-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sav70-mil-eu#
+
+Device Name: bf-alsto-cho70-war-eu
+bf-alsto-cho70-war-eu#
+bf-alsto-cho70-war-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S, RELEASE SOFTWARE
+Copyright (c) 1994-2014  by cisco Systems, Inc.
+
+bf-alsto-cho70-war-eu#
+bf-alsto-cho70-war-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Standard Protocol Pack
+Version:                         1.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-cho70-war-eu#
+
+Device Name: bf-alsto-dub70-dub-eu
+bf-alsto-dub70-dub-eu#
+bf-alsto-dub70-dub-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-dub70-dub-eu#
+bf-alsto-dub70-dub-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-dub70-dub-eu#
+
+Device Name: bf-alsto-sav70-roa-eu
+bf-alsto-sav70-roa-eu#
+bf-alsto-sav70-roa-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-sav70-roa-eu#
+bf-alsto-sav70-roa-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sav70-roa-eu#
+
+Device Name: bf-alsto-coi70-sgp-ap
+bf-alsto-coi70-sgp-ap#
+bf-alsto-coi70-sgp-ap#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-coi70-sgp-ap#
+bf-alsto-coi70-sgp-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-coi70-sgp-ap#
+
+Device Name: bf-alsto-doh70-frk-eu
+bf-alsto-doh70-frk-eu#
+bf-alsto-doh70-frk-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-doh70-frk-eu#
+bf-alsto-doh70-frk-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-doh70-frk-eu#
+
+Device Name: bf-alsto-lim70-san-am
+bf-alsto-lim70-san-am#
+bf-alsto-lim70-san-am#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-lim70-san-am#
+bf-alsto-lim70-san-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         4.10001
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             16
+State:                           Active
+
+bf-alsto-lim70-san-am#
+
+Device Name: bf-alsto-sem70-pth-eu
+bf-alsto-sem70-pth-eu#
+bf-alsto-sem70-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-sem70-pth-eu#
+bf-alsto-sem70-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sem70-pth-eu#
+
+Device Name: bf-alsto-eyb70-lyo-eu
+bf-alsto-eyb70-lyo-eu#
+bf-alsto-eyb70-lyo-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.3(3r)S1, RELEASE SOFTWARE
+Copyright (c) 1994-2013  by cisco Systems, Inc.
+
+bf-alsto-eyb70-lyo-eu#
+bf-alsto-eyb70-lyo-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Standard Protocol Pack
+Version:                         1.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-eyb70-lyo-eu#
+
+Device Name: bf-alsto-wol70-bhm-eu
+bf-alsto-wol70-bhm-eu#
+bf-alsto-wol70-bhm-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-wol70-bhm-eu#
+bf-alsto-wol70-bhm-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-wol70-bhm-eu#
+
+Device Name: bf-alsto-rei72-plg-eu
+bf-alsto-rei72-plg-eu#
+bf-alsto-rei72-plg-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-rei72-plg-eu#
+bf-alsto-rei72-plg-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-rei72-plg-eu#
+
+Device Name: bf-alsto-sri70-blr-ap
+bf-alsto-sri70-blr-ap#
+bf-alsto-sri70-blr-ap#sh rom-monitor 0
+
+System Bootstrap, Version 16.7(3r), RELEASE SOFTWARE
+Copyright (c) 1994-2017  by cisco Systems, Inc.
+
+bf-alsto-sri70-blr-ap#
+bf-alsto-sri70-blr-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-sri70-blr-ap#
+
+Device Name: bf-alsto-war70-den-am
+bf-alsto-war70-den-am#
+bf-alsto-war70-den-am#sh rom-monitor 0
+
+System Bootstrap, Version 16.7(3r), RELEASE SOFTWARE
+Copyright (c) 1994-2017  by cisco Systems, Inc.
+
+bf-alsto-war70-den-am#
+bf-alsto-war70-den-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-war70-den-am#
+
+Device Name: bf-alsto-rid70-rot-eu
+bf-alsto-rid70-rot-eu#
+bf-alsto-rid70-rot-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-rid70-rot-eu#
+bf-alsto-rid70-rot-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-rid70-rot-eu#
+
+Device Name: bf-alsto-sto70-plg-eu
+bf-alsto-sto70-plg-eu#
+bf-alsto-sto70-plg-eu#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(1r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-sto70-plg-eu#
+bf-alsto-sto70-plg-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sto70-plg-eu#
+
+Device Name: bf-alsto-pan72-pty-am
+bf-alsto-pan72-pty-am#
+bf-alsto-pan72-pty-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-pan72-pty-am#
+bf-alsto-pan72-pty-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-pan72-pty-am#
+
+Device Name: bf-alsto-new70-ewr-am
+bf-alsto-new70-ewr-am#
+bf-alsto-new70-ewr-am#sh rom-monitor 0
+
+System Bootstrap, Version 16.7(3r), RELEASE SOFTWARE
+Copyright (c) 1994-2017  by cisco Systems, Inc.
+
+bf-alsto-new70-ewr-am#
+bf-alsto-new70-ewr-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-new70-ewr-am#
+
+Device Name: bf-alsto-hor70-nyc-am
+bf-alsto-hor70-nyc-am#
+bf-alsto-hor70-nyc-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-hor70-nyc-am#
+bf-alsto-hor70-nyc-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-hor70-nyc-am#
+
+Device Name: bf-alsto-bra70-frk-eu
+bf-alsto-bra70-frk-eu#
+bf-alsto-bra70-frk-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-bra70-frk-eu#
+bf-alsto-bra70-frk-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-bra70-frk-eu#
+
+Device Name: bf-alsto-ist70-ist-me
+bf-alsto-ist70-ist-me#
+bf-alsto-ist70-ist-me#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-ist70-ist-me#
+bf-alsto-ist70-ist-me#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-ist70-ist-me#
+
+Device Name: bf-alsto-gra72-stl-am
+bf-alsto-gra72-stl-am#
+bf-alsto-gra72-stl-am#sh rom-monitor 0
+
+System Bootstrap, Version 16.7(3r), RELEASE SOFTWARE
+Copyright (c) 1994-2017  by cisco Systems, Inc.
+
+bf-alsto-gra72-stl-am#
+bf-alsto-gra72-stl-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-gra72-stl-am#
+
+Device Name: bf-alsto-sto70-pth-eu
+bf-alsto-sto70-pth-eu#
+bf-alsto-sto70-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(1r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-sto70-pth-eu#
+bf-alsto-sto70-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sto70-pth-eu#
+
+Device Name: bf-alsto-mex70-dal-am
+bf-alsto-mex70-dal-am#
+bf-alsto-mex70-dal-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-mex70-dal-am#
+bf-alsto-mex70-dal-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-mex70-dal-am#
+
+Device Name: bf-alsto-las71-san-am
+bf-alsto-las71-san-am#
+bf-alsto-las71-san-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-las71-san-am#
+bf-alsto-las71-san-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-las71-san-am#
+
+Device Name: bf-alsto-mad70-bas-eu
+bf-alsto-mad70-bas-eu#
+bf-alsto-mad70-bas-eu#sh rom-monitor 0
+
+System Bootstrap, Version 16.4(3r), RELEASE SOFTWARE
+Copyright (c) 1994-2017  by cisco Systems, Inc.
+
+bf-alsto-mad70-bas-eu#
+bf-alsto-mad70-bas-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-mad70-bas-eu#
+
+Device Name: bf-alsto-san70-maf-eu
+bf-alsto-san70-maf-eu#
+bf-alsto-san70-maf-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-san70-maf-eu#
+bf-alsto-san70-maf-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-san70-maf-eu#
+
+Device Name: bf-alsto-sid70-frk-eu
+bf-alsto-sid70-frk-eu#
+bf-alsto-sid70-frk-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-sid70-frk-eu#
+bf-alsto-sid70-frk-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Standard Protocol Pack
+Version:                         1.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-sid70-frk-eu#
+
+Device Name: bf-alsto-bol71-roa-eu
+bf-alsto-bol71-roa-eu#
+bf-alsto-bol71-roa-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-bol71-roa-eu#
+bf-alsto-bol71-roa-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-bol71-roa-eu#
+
+Device Name: bf-alsto-bel70-plg-eu
+bf-alsto-bel70-plg-eu#
+bf-alsto-bel70-plg-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-bel70-plg-eu#
+bf-alsto-bel70-plg-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-bel70-plg-eu#
+
+Device Name: bf-alsto-orn70-plg-eu
+bf-alsto-orn70-plg-eu#
+bf-alsto-orn70-plg-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-orn70-plg-eu#
+bf-alsto-orn70-plg-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-orn70-plg-eu#
+
+Device Name: bf-alsto-nut70-nut-am
+bf-alsto-nut70-nut-am#
+bf-alsto-nut70-nut-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(2r)S, RELEASE SOFTWARE
+Copyright (c) 1994-2014  by cisco Systems, Inc.
+
+bf-alsto-nut70-nut-am#
+bf-alsto-nut70-nut-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Standard Protocol Pack
+Version:                         1.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-nut70-nut-am#
+
+Device Name: bf-alsto-mac70-spt-ap
+bf-alsto-mac70-spt-ap#
+bf-alsto-mac70-spt-ap#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-mac70-spt-ap#
+bf-alsto-mac70-spt-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-mac70-spt-ap#
+
+Device Name: bf-alsto-wid71-mnc-eu
+bf-alsto-wid71-mnc-eu#
+bf-alsto-wid71-mnc-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-wid71-mnc-eu#
+bf-alsto-wid71-mnc-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-wid71-mnc-eu#
+
+Device Name: bf-alsto-pet73-pth-eu
+bf-alsto-pet73-pth-eu#
+bf-alsto-pet73-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-pet73-pth-eu#
+bf-alsto-pet73-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-pet73-pth-eu#
+
+Device Name: bf-alsto-mex72-dal-am
+bf-alsto-mex72-dal-am#
+bf-alsto-mex72-dal-am#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-mex72-dal-am#
+bf-alsto-mex72-dal-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         4.10001
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             16
+State:                           Active
+
+bf-alsto-mex72-dal-am#
+
+Device Name: bf-alsto-nap73-nyc-am
+bf-alsto-nap73-nyc-am#
+bf-alsto-nap73-nyc-am#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-nap73-nyc-am#
+bf-alsto-nap73-nyc-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         4.10001
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             16
+State:                           Active
+
+bf-alsto-nap73-nyc-am#
+
+Device Name: bf-alsto-mel70-dal-am
+bf-alsto-mel70-dal-am#
+bf-alsto-mel70-dal-am#sh rom-monitor 0
+
+System Bootstrap, Version 16.7(2r), RELEASE SOFTWARE
+Copyright (c) 1994-2017  by cisco Systems, Inc.
+
+bf-alsto-mel70-dal-am#
+bf-alsto-mel70-dal-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         23.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             27
+State:                           Active
+
+bf-alsto-mel70-dal-am#
+
+Device Name: bf-alsto-vil70-pth-eu
+bf-alsto-vil70-pth-eu#
+bf-alsto-vil70-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(1r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-vil70-pth-eu#
+bf-alsto-vil70-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-vil70-pth-eu#
+
+Device Name: bf-alsto-wid70-mnc-eu
+bf-alsto-wid70-mnc-eu#
+bf-alsto-wid70-mnc-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-wid70-mnc-eu#
+bf-alsto-wid70-mnc-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-wid70-mnc-eu#
+
+Device Name: bf-alsto-alb71-frk-eu
+bf-alsto-alb71-frk-eu#
+bf-alsto-alb71-frk-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-alb71-frk-eu#
+bf-alsto-alb71-frk-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-alb71-frk-eu#
+
+Device Name: bf-alsto-vil71-pth-eu
+bf-alsto-vil71-pth-eu#
+bf-alsto-vil71-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-vil71-pth-eu#
+bf-alsto-vil71-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-vil71-pth-eu#
+
+Device Name: bf-alsto-lon70-lcd-uk
+bf-alsto-lon70-lcd-uk#
+bf-alsto-lon70-lcd-uk#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-lon70-lcd-uk#
+bf-alsto-lon70-lcd-uk#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Standard Protocol Pack
+Version:                         1.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-lon70-lcd-uk#
+
+Device Name: bf-alsto-syd70-spt-ap
+bf-alsto-syd70-spt-ap#
+bf-alsto-syd70-spt-ap#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-syd70-spt-ap#
+bf-alsto-syd70-spt-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-syd70-spt-ap#
+
+Device Name: bf-alsto-lon70-lks-uk
+bf-alsto-lon70-lks-uk#
+bf-alsto-lon70-lks-uk#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-lon70-lks-uk#
+bf-alsto-lon70-lks-uk#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-lon70-lks-uk#
+
+Device Name: bf-alsto-cho7-wsw-eu
+bf-alsto-cho7-wsw-eu#
+bf-alsto-cho7-wsw-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S, RELEASE SOFTWARE
+Copyright (c) 1994-2014  by cisco Systems, Inc.
+
+bf-alsto-cho7-wsw-eu#
+bf-alsto-cho7-wsw-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Standard Protocol Pack
+Version:                         1.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-cho7-wsw-eu#
+
+Device Name: bf-alsto-cha70-ant-eu
+bf-alsto-cha70-ant-eu#
+bf-alsto-cha70-ant-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-cha70-ant-eu#
+bf-alsto-cha70-ant-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-cha70-ant-eu#
+
+Device Name: bf-alsto-dub72-frk-eu
+bf-alsto-dub72-frk-eu#
+bf-alsto-dub72-frk-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-dub72-frk-eu#
+bf-alsto-dub72-frk-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-dub72-frk-eu#
+
+Device Name: bf-alsto-cre70-plg-eu
+bf-alsto-cre70-plg-eu#
+bf-alsto-cre70-plg-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-cre70-plg-eu#
+bf-alsto-cre70-plg-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-cre70-plg-eu#
+
+Device Name: bf-alsto-ses71-mil-eu
+bf-alsto-ses71-mil-eu#
+bf-alsto-ses71-mil-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-ses71-mil-eu#
+bf-alsto-ses71-mil-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-ses71-mil-eu#
+
+Device Name: bf-alsto-pan72-pty-am
+bf-alsto-pan72-pty-am#
+bf-alsto-pan72-pty-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-pan72-pty-am#
+bf-alsto-pan72-pty-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-pan72-pty-am#
+
+Device Name: bf-alsto-sem70-lyo-eu
+bf-alsto-sem70-lyo-eu#
+bf-alsto-sem70-lyo-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-sem70-lyo-eu#
+bf-alsto-sem70-lyo-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sem70-lyo-eu#
+
+Device Name: bf-alsto-mac71-spt-ap
+bf-alsto-mac71-spt-ap#
+bf-alsto-mac71-spt-ap#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-mac71-spt-ap#
+bf-alsto-mac71-spt-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-mac71-spt-ap#
+
+Device Name: bf-alsto-kow70-hkh-ap
+bf-alsto-kow70-hkh-ap#
+bf-alsto-kow70-hkh-ap#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-kow70-hkh-ap#
+bf-alsto-kow70-hkh-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-kow70-hkh-ap#
+
+Device Name: bf-alsto-man70-mnc-uk
+bf-alsto-man70-mnc-uk#
+bf-alsto-man70-mnc-uk#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-man70-mnc-uk#
+bf-alsto-man70-mnc-uk#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-man70-mnc-uk#
+
+Device Name: bf-alsto-san71-bas-eu
+bf-alsto-san71-bas-eu#
+bf-alsto-san71-bas-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-san71-bas-eu#
+bf-alsto-san71-bas-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-san71-bas-eu#
+
+Device Name: bf-alsto-bel70-pth-eu
+bf-alsto-bel70-pth-eu#
+bf-alsto-bel70-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-bel70-pth-eu#
+bf-alsto-bel70-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-bel70-pth-eu#
+
+Device Name: bf-alsto-man70-mnc-eu
+bf-alsto-man70-mnc-eu#
+bf-alsto-man70-mnc-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-man70-mnc-eu#
+bf-alsto-man70-mnc-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-man70-mnc-eu#
+
+Device Name: bf-alsto-san70-mbi-am
+bf-alsto-san70-mbi-am#
+bf-alsto-san70-mbi-am#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-san70-mbi-am#
+bf-alsto-san70-mbi-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         4.10001
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             16
+State:                           Active
+
+bf-alsto-san70-mbi-am#
+
+
+Device Name: bf-alsto-sto70-plg-eu
+bf-alsto-sto70-plg-eu#
+bf-alsto-sto70-plg-eu#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(1r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-sto70-plg-eu#
+bf-alsto-sto70-plg-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-sto70-plg-eu#
+
+Device Name: bf-alsto-mad70-maf-eu
+bf-alsto-mad70-maf-eu#
+bf-alsto-mad70-maf-eu#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(2r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-mad70-maf-eu#
+bf-alsto-mad70-maf-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-mad70-maf-eu#
+
+Device Name: bf-alsto-wol70-bir-uk
+bf-alsto-wol70-bir-uk#
+bf-alsto-wol70-bir-uk#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-wol70-bir-uk#
+bf-alsto-wol70-bir-uk#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         12.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-wol70-bir-uk#
+
+Device Name: bf-alsto-pet70-plg-eu
+bf-alsto-pet70-plg-eu#
+bf-alsto-pet70-plg-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-pet70-plg-eu#
+bf-alsto-pet70-plg-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-pet70-plg-eu#
+
+Device Name: bf-alsto-nig71-isd-af
+bf-alsto-nig71-isd-af#
+bf-alsto-nig71-isd-af#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(1r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-nig71-isd-af#
+bf-alsto-nig71-isd-af#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         23.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             27
+State:                           Active
+
+bf-alsto-nig71-isd-af#
+
+Device Name: bf-alsto-ste70-ham-eu
+bf-alsto-ste70-ham-eu#
+bf-alsto-ste70-ham-eu#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(2r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-ste70-ham-eu#
+bf-alsto-ste70-ham-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-ste70-ham-eu#
+
+Device Name: bf-alsto-pyr70-syt-ap
+bf-alsto-pyr70-syt-ap#
+bf-alsto-pyr70-syt-ap#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-pyr70-syt-ap#
+bf-alsto-pyr70-syt-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-pyr70-syt-ap#
+
+Device Name: bf-alsto-sin70-sng-ap
+bf-alsto-sin70-sng-ap#
+bf-alsto-sin70-sng-ap#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(2r)S, RELEASE SOFTWARE
+Copyright (c) 1994-2014  by cisco Systems, Inc.
+
+bf-alsto-sin70-sng-ap#
+bf-alsto-sin70-sng-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Standard Protocol Pack
+Version:                         1.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             20
+State:                           Active
+
+bf-alsto-sin70-sng-ap#
+
+Device Name: bf-alsto-mel70-mel-ap
+bf-alsto-mel70-mel-ap#
+bf-alsto-mel70-mel-ap#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-mel70-mel-ap#
+bf-alsto-mel70-mel-ap#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         4.10001
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             16
+State:                           Active
+
+bf-alsto-mel70-mel-ap#
+
+Device Name: bf-alsto-mon70-mtl-am
+bf-alsto-mon70-mtl-am#
+bf-alsto-mon70-mtl-am#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-mon70-mtl-am#
+bf-alsto-mon70-mtl-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+Name:                            Advanced Protocol Pack
+Version:                         4.10001
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             16
+State:                           Active
+
+bf-alsto-mon70-mtl-am#
+
+Device Name: bf-alsto-cre70-pth-eu
+bf-alsto-cre70-pth-eu#
+bf-alsto-cre70-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-cre70-pth-eu#
+bf-alsto-cre70-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-cre70-pth-eu#
+
+Device Name: bf-alsto-ses70-mil-eu
+bf-alsto-ses70-mil-eu#
+bf-alsto-ses70-mil-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-ses70-mil-eu#
+bf-alsto-ses70-mil-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-ses70-mil-eu#
+
+Device Name: bf-alsto-mad72-maf-eu
+bf-alsto-mad72-maf-eu#
+bf-alsto-mad72-maf-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-mad72-maf-eu#
+bf-alsto-mad72-maf-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-mad72-maf-eu#
+
+Device Name: bf-alsto-aha70-frk-eu
+bf-alsto-aha70-frk-eu#
+bf-alsto-aha70-frk-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-aha70-frk-eu#
+bf-alsto-aha70-frk-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-aha70-frk-eu#
+
+Device Name: bf-alsto-nap73-chc-am
+bf-alsto-nap73-chc-am#
+bf-alsto-nap73-chc-am#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-nap73-chc-am#
+bf-alsto-nap73-chc-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-nap73-chc-am#
+
+Device Name: bf-alsto-mad71-bas-eu
+bf-alsto-mad71-bas-eu#
+bf-alsto-mad71-bas-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-mad71-bas-eu#
+bf-alsto-mad71-bas-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-mad71-bas-eu#
+
+Device Name: bf-alsto-lap70-spl-am
+bf-alsto-lap70-spl-am#
+bf-alsto-lap70-spl-am#sh rom-monitor 0
+
+System Bootstrap, Version 16.2(1r), RELEASE SOFTWARE
+Copyright (c) 1994-2016  by cisco Systems, Inc.
+
+bf-alsto-lap70-spl-am#
+bf-alsto-lap70-spl-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-lap70-spl-am#
+
+Device Name: bf-alsto-orn70-pth-eu
+bf-alsto-orn70-pth-eu#
+bf-alsto-orn70-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S5, RELEASE SOFTWARE
+Copyright (c) 1994-2015  by cisco Systems, Inc.
+
+bf-alsto-orn70-pth-eu#
+bf-alsto-orn70-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-orn70-pth-eu#
+
+Device Name: bf-alsto-new72-nyc-am
+bf-alsto-new72-nyc-am#
+bf-alsto-new72-nyc-am#sh rom-monitor 0
+
+System Bootstrap, Version 16.7(3r), RELEASE SOFTWARE
+Copyright (c) 1994-2017  by cisco Systems, Inc.
+
+bf-alsto-new72-nyc-am#
+bf-alsto-new72-nyc-am#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-new72-nyc-am#
+
+Device Name: bf-alsto-mos70-frk-eu
+bf-alsto-mos70-frk-eu#
+bf-alsto-mos70-frk-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-mos70-frk-eu#
+bf-alsto-mos70-frk-eu#sh ip nbar protocol-pack active
+
+
+ACTIVE protocol pack: 
+
+Name:                            Standard Protocol Pack
+Version:                         1.0
+Publisher:                       Cisco Systems Inc.
+
+bf-alsto-mos70-frk-eu#
+
+Device Name: bf-alsto-par71-pth-eu
+bf-alsto-par71-pth-eu#
+bf-alsto-par71-pth-eu#sh rom-monitor 0
+
+System Bootstrap, Version 15.4(3r)S, RELEASE SOFTWARE
+Copyright (c) 1994-2014  by cisco Systems, Inc.
+
+bf-alsto-par71-pth-eu#
+bf-alsto-par71-pth-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Standard Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-par71-pth-eu#
+
+Device Name: bf-alsto-bra70-haj-eu
+bf-alsto-bra70-haj-eu#
+bf-alsto-bra70-haj-eu#sh rom-monitor 0
+sh rom-monitor 0
+               ^
+% Invalid input detected at '^' marker.
+
+bf-alsto-bra70-haj-eu#
+bf-alsto-bra70-haj-eu#sh ip nbar protocol-pack active
+
+
+Active Protocol Pack: 
+
+
+Name:                            Advanced Protocol Pack
+Version:                         14.0
+Publisher:                       Cisco Systems Inc.
+NBAR Engine Version:             23
+State:                           Active
+
+bf-alsto-bra70-haj-eu#
